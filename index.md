@@ -11,7 +11,6 @@ padding: 0;
 }
 
 body {
-background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/blue-snow.png);
 }
 table, th, td {
   border: 1px solid;
@@ -37,31 +36,7 @@ color: white;
 a:active {
   background:red;
 }
-
-
-#shaq {
-  text-decoration: none;
-  padding: none;
-  border: none;
-  border-radius: none;
-  background: transparent;
 }
-
-#shaq:hover{
-background: transparent;
-color: none;
-}
-
-#shaq:active {
-  background:none;
-}
-
-#jerma {
-  height: 150px;
-
-}
-
-* {box-sizing: border-box;}
 
 body {
   margin: 0;
@@ -172,24 +147,14 @@ background: linear-gradient(to right, #636363, #a2ab58);
 </head>
 
 <body>
-
-  <div class="container">
-  <div class="side-left">
-  <div id="box1">
   <h1>random stuff</h1>
     <li><a href="journal.html">stupid thoughts</a></li>
 
-</div>
+  <h1>good songs i'm listening to currently</h2>
 
-</div>
-  </div><div id="box2">
-  <h2>good songs i'm listening to currently</h2>
-
-  </div>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P5KoWXOxwuobLmHXLMobV?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1D3wLZMFsFnoPXlS93DBHp?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ffMaevgvKOc9WmNlUwddk?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
 
 
 </body>
