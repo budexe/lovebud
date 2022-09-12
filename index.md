@@ -184,9 +184,11 @@ background: linear-gradient(to right, #636363, #a2ab58);
 </div>
   </div><div id="box2">
   <h2>good songs i'm listening to currently</h2>
-  <iframe width="300" height="215" src="https://www.youtube.com/embed/KuvN39H2dRw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><iframe width="300" height="215" src="https://www.youtube.com/embed/MqMHdNaozJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </div>
 
+  </div>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P5KoWXOxwuobLmHXLMobV?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1D3wLZMFsFnoPXlS93DBHp?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ffMaevgvKOc9WmNlUwddk?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 
