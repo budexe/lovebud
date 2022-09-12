@@ -150,12 +150,8 @@ background: linear-gradient(to right, #636363, #a2ab58);
   <h1>random stuff</h1>
     <li><a href="journal.html">stupid thoughts</a></li>
 
-  <h1>good songs i'm listening to currently</h2>
+  <h1>good songs i'm listening to currently</h1>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P5KoWXOxwuobLmHXLMobV?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1D3wLZMFsFnoPXlS93DBHp?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ffMaevgvKOc9WmNlUwddk?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
-</body>
-</html>
