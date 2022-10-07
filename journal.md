@@ -75,6 +75,14 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
+
+    <button>10/7</button>
+<div class="journal">
+<p> i like to watch people. it's nice to see people interact and enjoy each other's presence. it's a feeling i've always wanted to feel myself.
+</p>
+</div>
+<br />
+
     <button>9/12</button>
 <div class="journal">
 <p>
