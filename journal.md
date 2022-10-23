@@ -75,7 +75,11 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
-
+<button>10/23</button>
+<div class="journal">
+<p> it feels like im cursed to watch the people i care about most to plummet into depression despite trying my hardest to help. maybe this is the true punishment i deserve, like being depressed myself wasn't enough</p>
+</div>
+<br />
     <button>10/7</button>
 <div class="journal">
 <p> i like to watch people. it's nice to see people interact and enjoy each other's presence. it's a feeling i've always wanted to feel myself.
@@ -83,10 +87,9 @@ a:active {
 </div>
 <br />
 
-    <button>9/12</button>
+<button>9/12</button>
 <div class="journal">
-<p>
-    four months ago i created this page as a part of a website for graphic design class, but i liked the idea of a public journal so much i decided to just clone it and continue it as a seperate, personal passion project or something. i don't know.</p>
+<p>four months ago i created this page as a part of a website for graphic design class, but i liked the idea of a public journal so much i decided to just clone it and continue it as a seperate, personal passion project or something. i don't know.</p>
 </div>
 <br />
   <button>5/25</button>

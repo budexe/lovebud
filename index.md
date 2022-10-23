@@ -147,15 +147,15 @@ background: linear-gradient(to right, #636363, #a2ab58);
 </head>
 
 <body>
-  <h1>random stuff</h1>
-    <li><a href="journal.html">stupid thoughts</a></li>
-
-  <h1>good songs i'm listening to currently</h2>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4P5KoWXOxwuobLmHXLMobV?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1D3wLZMFsFnoPXlS93DBHp?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ffMaevgvKOc9WmNlUwddk?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-
+  <h1>welcome to my awful website</h1>
+  here are some things you might be looking for<br>
+  <br>
+  <a href="journal.html">stupid journal</a>
+  <br>
+  <br>
+anything else? sorry, you're out of luck -- try another website
+  <h2>good songs i'm listening to currently</h2>
+  <li> Heart-Shaped Box - Nirvana 
+<li> Just - Radiohead 
 </body>
 </html>
