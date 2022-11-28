@@ -155,7 +155,7 @@ background: linear-gradient(to right, #636363, #a2ab58);
   <br>
 anything else? sorry, you're out of luck -- try another website
   <h2>good songs i'm listening to currently</h2>
-  <li> Heart-Shaped Box - Nirvana 
-<li> Just - Radiohead 
+  <li> What Once Was - Her's 
+<li> Big Bang Baby - Stone Temple Pilots </li> 
 </body>
 </html>

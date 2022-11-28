@@ -75,6 +75,11 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
+<button>11/28</button>
+<div class="journal">
+<p> it's kind of scary how easily driving comes to me now. what was once such a big deal has become just another daily task. it used to require all of my focus but now i can just kind of zone out while driving. it's weird right?</p>
+</div>
+<br />
 <button>10/23</button>
 <div class="journal">
 <p> it feels like im cursed to watch the people i care about most to plummet into depression despite trying my hardest to help. maybe this is the true punishment i deserve, like being depressed myself wasn't enough</p>
