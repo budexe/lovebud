@@ -75,6 +75,13 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
+<button>12/7</button>
+<div class="journal">
+<p>i wish everything we do wasn't self-imposed. you don't have to do your homework if you're okay with getting a bad grade. and you can fail a class if you don't care about passing. you can not pay your taxes if you are okay if probably getting arrested for committing tax fraud. there's nothing you HAVE to do as a human being. it's all based on the consequences of your actions.
+<br />
+ever since i've started to enjoy things less those consequences seem less disastrous. i'm okay with a lot of things now i probably shouldn't be. apathy is a pretty scary thing sometimes.
+</div>
+<br />
 <button>11/28</button>
 <div class="journal">
 <p> it's kind of scary how easily driving comes to me now. what was once such a big deal has become just another daily task. it used to require all of my focus but now i can just kind of zone out while driving. it's weird right?</p>
