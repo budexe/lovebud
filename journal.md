@@ -75,6 +75,12 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
+  <button>12/20</button>
+<div class="journal">
+<p>how are people so good at things. it feels like everything i try just ends up in failure</p>
+</div>
+<br />
+
 <button>12/7</button>
 <div class="journal">
 <p>i wish everything we do wasn't self-imposed. you don't have to do your homework if you're okay with getting a bad grade. and you can fail a class if you don't care about passing. you can not pay your taxes if you are okay if probably getting arrested for committing tax fraud. there's nothing you HAVE to do as a human being. it's all based on the consequences of your actions.
