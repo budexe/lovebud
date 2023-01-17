@@ -154,8 +154,9 @@ background: linear-gradient(to right, #636363, #a2ab58);
   <br>
   <br>
 anything else? sorry, you're out of luck -- try another website
-  <h2>good songs i'm listening to currently</h2>
-  <li> What Once Was - Her's 
-<li> Big Bang Baby - Stone Temple Pilots </li> 
+  <h2>songs i'm listening to currently</h2>
+  <li> Ful Stop - Radiohead 
+<li> How to Disappear Completely - Radiohead </li> 
+<li>Hurt - Nine Inch Nails</li>
 </body>
 </html>
