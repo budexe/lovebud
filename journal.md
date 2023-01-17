@@ -75,6 +75,14 @@ a:active {
 
 <div class="center">
   <h1>funny little page for my funny little thoughts</h1>
+    <button>1/17</button>
+<div class="journal">
+<p>so it turns out my closest friendship turned out to be codependent and toxic and getting over it has been really hard for me. they said they were open to reconnecting but have said some really hurtful things to my girlfriend about me. i've been really open to them about it but they still seem convinced i am a toxic, manipulative, lying asshole. and they don't seem to understand how much it hurts me as well since i am pretty impressionable and you could probably bully me to suicide if you wanted.</p>
+<p> the thing about codependency is that most of it was my depression; me being too clingy and afraid they will leave, needing constant reassurance, asking if they still like me, pressuring them with deep questions and using them as a therapist, etc. so some of it is still my fault. but it's seemed very selfish to me for them to cut all ties and not give me a chance to explain myself or apologize, especially knowing how much that would affect me emotionally.</p>
+<p>part of me feels like i deserve a second chance but the other part feels like i've hurt them enough already.</p>
+</div>
+<br />
+
   <button>12/20</button>
 <div class="journal">
 <p>how are people so good at things. it feels like everything i try just ends up in failure</p>
